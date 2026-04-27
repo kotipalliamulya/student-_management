@@ -36,6 +36,6 @@ Sita - 90
 Enter choice: 3  
 
 ## Output Screenshot
-<img width="467" height="467" alt="Screenshot 2026-04-27 203150" src="https://github.com/user-attachments/assets/47a1cd59-b9cd-446c-8156-fad15b275676" />
 <img width="469" height="960" alt="Screenshot 2026-04-27 203128" src="https://github.com/user-attachments/assets/9f425b88-a41b-48fc-abb9-625966daf37a" />
+<img width="467" height="467" alt="Screenshot 2026-04-27 203150" src="https://github.com/user-attachments/assets/47a1cd59-b9cd-446c-8156-fad15b275676" />
 
